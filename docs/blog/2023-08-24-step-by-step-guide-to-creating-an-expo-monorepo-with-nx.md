@@ -297,6 +297,6 @@ With Nx, it is easy to create and scale up an Expo app. Even though this app is 
 - [Unit Testing Expo Apps With Jest](https://medium.com/unit-testing-expo-apps-with-jest-22a0309aa7bb)
 - [Add Cypress, Playwright, and Storybook to Nx Expo Apps](https://medium.com/@emilyxiong/add-cypress-playwright-and-storybook-to-nx-expo-apps-1d3e409ce834)
 - 👩‍💻 [Nx GitHub](https://github.com/nrwl/nx)
-- 💬 [Nx Community Slack](https://go.nrwl.io/join-slack)
+- 💬 [Nx Official Discord Server](https://go.nx.dev/community)
 - 📹 [Nx Youtube Channel](https://www.youtube.com/@nxdevtools)
 - 🚀 [Speed up your CI](https://nx.app/)

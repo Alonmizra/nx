@@ -723,7 +723,7 @@ You can find an example of such setup on the **Nx Recipe GitHub repository**:
 
 🧠 [Nx Docs](/getting-started/intro)  
 👩‍💻 [Nx GitHub](https://github.com/nrwl/nx)  
-💬 [Nrwl Community Slack](https://go.nx.dev/community)  
+💬 [Nx Official Discord Server](https://go.nx.dev/community)
 📹 [Nrwl Youtube Channel](https://www.youtube.com/nrwl_io)  
 🥚 [Free Egghead course](https://egghead.io/courses/scale-react-development-with-nx-4038)
 

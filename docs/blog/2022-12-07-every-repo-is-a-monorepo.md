@@ -311,7 +311,7 @@ Whatever we call it, it is faster, more scalable, and more maintainable.
 
 *   🧠 [Nx Docs](/getting-started/intro)
 *   👩‍💻 [Nx GitHub](https://github.com/nrwl/nx)
-*   💬 [Nrwl Community Slack](https://go.nx.dev/community)
+* 💬 [Nx Official Discord Server](https://go.nx.dev/community)
 *   📹 [Nrwl Youtube Channel](https://www.youtube.com/@nxdevtools)
 
 Also, if you liked this, click the 👏 and make sure to follow [Victor](https://twitter.com/victorsavkin) and [Nx](https://twitter.com/nxdevtools) on Twitter for more!

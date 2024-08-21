@@ -132,7 +132,7 @@ We are also looking into automatic type generation for both TypeScript and Kotli
 - 🤖 [Nx Console VSCode extension](https://marketplace.visualstudio.com/items?itemName=nrwl.angular-console)
 - 🧠 [Nx Docs](/getting-started/intro)
 - 👩‍💻 [Nx GitHub](https://github.com/nrwl/nx)
-- 💬 [Nx Community Slack](https://go.nx.dev/community)
+- 💬 [Nx Official Discord Server](https://go.nx.dev/community)
 - 📹 [Nx Youtube Channel](https://www.youtube.com/@nxdevtools)
 
 Also, if you liked this, click the 👏 and make sure to follow [Max](https://twitter.com/MaxKless), [Jon](https://twitter.com/jcammisuli) and [Nx](https://twitter.com/NxDevTools) on Twitter for more!

@@ -315,6 +315,6 @@ Hopefully, this gives you good insight into how to get started with Playwright. 
 
 - 🧠 [Nx Docs](/getting-started/intro)
 - 👩‍💻 [Nx GitHub](https://github.com/nrwl/nx)
-- 💬 [Nx Community Slack](https://go.nx.dev/community)
+- 💬 [Nx Official Discord Server](https://go.nx.dev/community)
 - 📹 [Nx Youtube Channel](https://www.youtube.com/@nxdevtools)
 - 🚀 [Speed up your CI](/nx-cloud)

@@ -29,7 +29,8 @@ The Nx Ecosystem CI works in the following way:
 3.  It runs a number of scripts specified by the project’s author (eg. `test`, `build`, `e2e`)
 4.  It migrates the repository to the `next` version of Nx (using `nx migrate next`)
 5.  It runs the scripts again
-6.  It reports the results of the runs to the [Nrwl Community Slack](https://join.slack.com/t/nrwlcommunity/shared_invite/zt-1wbp4do0g-3czhwijFnRzsilGI7eJuag) in the `#nx-ecosystem-ci` channel.
+6.  It reports the results of the runs to the [Nx Official Discord Server](https://go.nx.dev/community)
+    in the `#ecosystem-ci` channel.
 
 The main difference between the Nx Ecosystem CI and the Vite Ecosystem CI is that Nx Ecosystem CI uses the \`next\` version of Nx as published on npm, rather than cloning and building Nx locally, like Vite does in the Vite Ecosystem CI. This approach ensures that the tests run against the same code that developers are most likely to use in their projects. It also makes it easier for the script to migrate to that version.
 
@@ -148,7 +149,8 @@ Adding your suite name to this file allows it to be manually selected for a test
 
 ### Reporting the results
 
-The Nx Ecosystem CI is integrated with GitHub Actions, which helps with its automation process. The CI pipeline is scheduled to run three times a week (on Mondays, Wednesdays, and Fridays) and can also be triggered manually. The workflow uses a matrix strategy to run the suites in parallel. Each suite is given a big amount of memory, and the pipeline is configured with a long timeout, meaning that even if one suite encounters an error, the rest will continue to run. This ensures that we get comprehensive feedback on the health of all the test suites, regardless of individual failures. Once the test suites run, Github sends a message to the [Nrwl Community Slack](https://join.slack.com/t/nrwlcommunity/shared_invite/zt-1wbp4do0g-3czhwijFnRzsilGI7eJuag) `#nx-ecosystem-ci` channel with the status of each suite, enabling the team and the community to view the results. Each result points to the Nx tag that was used, and also the job logs on GitHub.
+The Nx Ecosystem CI is integrated with GitHub Actions, which helps with its automation process. The CI pipeline is scheduled to run three times a week (on Mondays, Wednesdays, and Fridays) and can also be triggered manually. The workflow uses a matrix strategy to run the suites in parallel. Each suite is given a big amount of memory, and the pipeline is configured with a long timeout, meaning that even if one suite encounters an error, the rest will continue to run. This ensures that we get comprehensive feedback on the health of all the test suites, regardless of individual failures. Once the test suites run, Github sends a message to the [Nx Official Discord Server](https://go.nx.dev/community)
+`#ecosystem-ci` channel with the status of each suite, enabling the team and the community to view the results. Each result points to the Nx tag that was used, and also the job logs on GitHub.
 
 Here is an example of a test run:
 
@@ -175,7 +177,7 @@ As we continue to improve and refine the Nx Ecosystem CI, we remain committed to
 ## Learn more
 
 - 👩‍💻 [Nx GitHub](https://github.com/nrwl/nx)
-- 💬 [Nx Community Slack](https://go.nx.dev/community)
+- 💬 [Nx Official Discord Server](https://go.nx.dev/community)
 - 📹 [Nx Youtube Channel](https://www.youtube.com/@nxdevtools)
 - 🚀 [Speed up your CI](/nx-cloud)
 

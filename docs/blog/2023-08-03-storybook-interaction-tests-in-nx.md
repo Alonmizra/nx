@@ -66,7 +66,7 @@ Moreover, since Storybook isolates each component, you can ensure that the tests
 
 - 🧠 [Nx Docs](/getting-started/intro)
 - 👩‍💻 [Nx GitHub](https://github.com/nrwl/nx)
-- 💬 [Nx Community Slack](https://go.nx.dev/community)
+- 💬 [Nx Official Discord Server](https://go.nx.dev/community)
 - 📹 [Nx Youtube Channel](https://www.youtube.com/@nxdevtools)
 - 🚀 [Speed up your CI](/nx-cloud)
 

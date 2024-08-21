@@ -441,7 +441,7 @@ Congrats, you made it to the end of this article. By now you should have gotten 
 
 Where to go from here?
 
-- [join the community Slack](https://go.nx.dev/community)
+- [Nx Official Discord Server](https://go.nx.dev/community)
 - [follow me on Twitter](https://twitter.com/juristr)
 - [follow Nx on Twitter](https://twitter.com/nxdevtools)
 - subscribe on the [Nx Youtube channel](https://youtube.com/c/Nrwl_io)

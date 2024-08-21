@@ -210,7 +210,7 @@ That said, as an open-source maintainer you also get unlimited free computation 
 
 - 🧠 [Lerna Docs](https://lerna.js.org/)
 - 👩‍💻 [Lerna GitHub](https://github.com/lerna/lerna)
-- 💬 [Nrwl Community Slack](https://go.nx.dev/community) (join the `#lerna` channel)
+- 💬 [Nx Official Discord Server](https://go.nx.dev/community)(join the `#lerna` channel)
 - 📹 [Nrwl Youtube Channel](https://www.youtube.com/nrwl_io)
 
 Also, if you liked this, click the 👏 and make sure to follow [Juri](https://twitter.com/juristr) and [Lerna](https://twitter.com/lernajs) on Twitter for more!
