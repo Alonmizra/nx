@@ -119,7 +119,7 @@ npx nx generate @nx/expo:lib ui
 
 Now under the `libs` folder, a `ui` folder has been created:
 
-![[object HTMLElement]](/blog/images/2023-08-24/1*evR014EchmXEWHJfJnbJRg.avif)
+![](/blog/images/2023-08-24/1*evR014EchmXEWHJfJnbJRg.avif)
 _ui folder_
 
 To create a component in the `ui` library, run:
@@ -130,7 +130,7 @@ npx nx generate @nx/expo:component carousel --project=ui --export
 
 You can see that a `carousel` folder has been created in the `libs/ui/src/lib` folder:
 
-![[object HTMLElement]](/blog/images/2023-08-24/1*s_zYPQv0QVg5-juNRXmedw.avif)
+![](/blog/images/2023-08-24/1*s_zYPQv0QVg5-juNRXmedw.avif)
 _carousel folder_
 
 Next, modify this component to display the content with props passed in:
@@ -149,7 +149,7 @@ This project is going to use the [stack navigator](https://reactnavigation.org/d
 
 Run the app with`nx start cats`, and you should be able to see the app on the simulator:
 
-![[object HTMLElement]](/blog/images/2023-08-24/1*1hFA_7uBgU2GpFofNtHBiQ.avif)
+![](/blog/images/2023-08-24/1*1hFA_7uBgU2GpFofNtHBiQ.avif)
 _Page on the simulator (left: iOS, right: Android)_
 
 ## Add Another App
@@ -166,7 +166,7 @@ Alternatively, if you use Visual Studio Code as your code editor, you can also c
 
 Under the apps folder, there should be `cats/`, `dogs/` and their e2es.
 
-![[object HTMLElement]](/blog/images/2023-08-24/1*juth4jstENJ4h1AvIibujA.avif)
+![](/blog/images/2023-08-24/1*juth4jstENJ4h1AvIibujA.avif)
 _apps folder_
 
 You can reuse the UI library in the Dogs app in `apps/dogs/src/app/App.tsx` with the below code:
@@ -249,7 +249,7 @@ You can manually upload the build bundle binary to the app store, or you can sub
 
 First, in `app.json` under the project `apps/cats/app.json`, you need to make sure`ios.bundleIdentifier` and `android.package` keys are correct:
 
-![[object HTMLElement]](/blog/images/2023-08-24/1*j9TAZZgqplZCcjD4hiWNpg.avif)
+![](/blog/images/2023-08-24/1*j9TAZZgqplZCcjD4hiWNpg.avif)
 _app.json_
 
 To submit your app to the app stores, run:
